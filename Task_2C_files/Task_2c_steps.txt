@@ -1,0 +1,8 @@
+Team ID = 1380
+Trained weights drive link = "enter_the_drive_link_here"
+
+###############################################################################
+'''
+Please write the complete steps taken by your team explaining how you completed Task 2C. It is adviced to be as elaborate as possible.
+
+1. 

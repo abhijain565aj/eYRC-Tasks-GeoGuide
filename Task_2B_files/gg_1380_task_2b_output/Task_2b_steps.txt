@@ -1,0 +1,25 @@
+Team ID = 1380
+Trained weights drive link = "https://drive.google.com/file/d/11knF7GkQvuK4VnLWiPwx2AMjevUkwm1A/view?usp=sharing"
+
+###############################################################################
+'''
+Please write the complete steps taken by your team explaining how you completed Task 2B. It is adviced to be as elaborate as possible.
+
+1. Review MIT Video on Convolutional Neural Networks (CNNs): 
+The first step in completing Task 2B was to watch a video provided by MIT that focused on Convolutional Neural Networks. This video likely covered the fundamental concepts and working principles of CNNs, which are crucial for understanding computer vision tasks.
+
+2. Refer to PyTorch Documentation on Computer Vision and Custom Datasets: 
+After gaining a foundational understanding of CNNs, the team referred to the PyTorch documentation. Specifically, they explored the sections related to computer vision and custom datasets. PyTorch is a popular deep learning framework, and this documentation would have provided valuable insights into how to use PyTorch for computer vision tasks.
+During this time we had already started step 3 and learning went on together with writing code.
+
+3. Coding Based on Task 1A with Syntax Improvements i.e., by adding CNN:
+The team started by referring to the code or approach used in Task 1A. We aimed to build upon this foundation and make necessary syntax improvements based upon CNN and in the Dataloading portion. And finally we were able to just run the code error free and got a score of 15.
+
+4. Hyperparameter Tuning and Model Modifications:
+To enhance the accuracy of the model, the team engaged in hyperparameter tuning and model modifications. This step involved experimenting with various hyperparameters, such as learning rates, batch sizes, the number of layers, and the number of filters in each CNN layer. The goal was to fine-tune the model for better performance.
+
+5. Challenges with Computational Time:
+The team encountered challenges with computational time while experimenting with different model configurations and hyperparameters. The team likely had to balance the trade-off between model accuracy and computational resources and this is when we uploaded over first model which was made from scratch.
+
+6. Getting known to Transfer Learning:
+At the last day we came to know that we can use transfer learning too, and then tried to learn it in morning and apply it.
