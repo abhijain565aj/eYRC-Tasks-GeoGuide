@@ -14,7 +14,7 @@ In this task, the goal is to detect ArUco markers in an image and extract their 
 
 # Task-2B
 
-- **Task Overview**: The goal of this task is to classify various events such as 'combat', 'destroyed building', 'fire', 'humanitarian aid', and 'military vehicles' from input images using a deep learning model (ResNet18). This classification helps in recognizing key events from satellite imagery.
+- **Task Overview**: The goal of this task is to classify various events such as 'combat', 'destroyed building', 'fire', 'humanitarian aid', and 'military vehicles' from input images using a deep learning model (ResNet18). This classification helps in recognizing the key events from satellite imagery.
 
 - **Model Training and Testing**: A ResNet18 model is fine-tuned with a custom classifier using a dataset of images representing different events. The trained model is then used to classify new images by loading the trained weights and returning the predicted event name.
 
