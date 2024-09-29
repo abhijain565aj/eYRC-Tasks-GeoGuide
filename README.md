@@ -31,3 +31,5 @@ In this task, the goal is to detect ArUco markers in an image and extract their 
 - **Task Overview**: The task involves reading latitude and longitude coordinates from a CSV file, simulating the tracking of paths using ArUco marker IDs, and validating the traversed paths through two test cases.
 
 - **CSV Operations and Path Tracking**: The script reads a CSV file (lat_long.csv) to associate ArUco IDs with their respective latitude and longitude coordinates. It then simulates tracking two different paths (path1 and path2) by writing live coordinate data to a separate CSV (live_data.csv). Two test cases validate the correctness of the traversed paths.
+
+- **QGIS Software**: Utilized QGIS software for spatial data visualization and analysis to enhance the understanding of geographical data relationships.
